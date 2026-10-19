@@ -1,3 +1,3 @@
 Practica de Git y GitHub
-Rama: main
-Objetivo: practicar la integracion de cambios.
+Rama: main y feature/conflicto-git
+Objetivo: practicar la integracion y resolucion de conflictos.
