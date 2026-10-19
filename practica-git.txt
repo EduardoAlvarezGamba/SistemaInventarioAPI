@@ -1,0 +1,3 @@
+Practica de Git y GitHub
+Rama: feature/prectica-git
+Objetivo: aprender a trabajar con ramas y commits.
